@@ -1,13 +1,12 @@
 
 
-![alt text](image.png)
+
+
+<img width="1068" height="493" alt="git img1" src="https://github.com/user-attachments/assets/ae5103fe-7e3f-42b0-9c4b-92e875477e61" />
 
 
 
-
-
-![alt text](image-1.png)
-
+<img width="1067" height="481" alt="git img2" src="https://github.com/user-attachments/assets/0687450f-a606-4176-ad98-796832cabcee" />
 
 
 31 32-bit registers x1-x31, x0 hardwired to 0
